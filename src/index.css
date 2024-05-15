@@ -1,0 +1,29 @@
+#main{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+#left{
+  width: 50vw;
+  height: 60vh;
+  background-color: aquamarine;
+  padding: 2vw 3vw;
+}
+button{
+  margin-top: 3vw;
+ margin-right: 2vw;
+}
+#right{
+  width: 40vw;
+  height: 40vh;
+  background-color: red;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#circle{
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  background-color: blue;
+}
